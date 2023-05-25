@@ -1,0 +1,23 @@
+
+
+# If candidates have 2 or more 2 years of experience add the following points to the test.
+
+#     XSS attack should be handled.
+#      IP filtering using custom middle ware.
+
+
+# Do get back in case you have any concerns.
+
+#a i am fresher so i have'nt added required this two
+# below is extra features i added 
+
+# I addedd some featuressuch as Msg Framework and session out method 
+
+
+# SESSION_EXPIRE_TIMEOUT = 30   # START TIMEING HERE after 30sec start this timer
+# SESSION_EXPIRE_AFTER_LAST_ACTIVITY = True  # if i  dont want to start after 30 sec start on the spot as user login after 30 sec logout
+
+# SESSION_EXPIRE_AFTER_LAST_ACTIVITY_GRACE_PERIOD = 10 # its wait untill not work on page time is 10 sec after start timeout code after 30 logout the user 
+
+# SESSION_TIMEOUT_REDIRECT = '/' # its use to redirect the page a specufic page in my case i redirect to home page after logout the user 
+
